@@ -1,13 +1,13 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Home from './pages/Home'
-import Cart from './pages/Cart'
-import Navbar from './components/Navbar'
-import LearnReducer from './pages/LearnReducer'
-import Reducer2 from './pages/Reducer2'
+import Home from './pages/Home';
+import Cart from './pages/Cart';
+import Navbar from './components/Navbar';
+import LearnReducer from './pages/LearnReducer';
+import Reducer2 from './pages/Reducer2';
 import MixReducer from './pages/MixReducer'
 import Trial from './pages/Trial'
-import Trial2 from './pages/Trial2';
+import Trial2 from './pages/Trial2'
 
 const App = () => {
   return (
