@@ -7,7 +7,7 @@ import LearnReducer from './pages/LearnReducer'
 import Reducer2 from './pages/Reducer2'
 import MixReducer from './pages/MixReducer'
 import Trial from './pages/Trial'
-import Trial2 from './pages/Trial2'
+import Trial2 from './pages/Trial2';
 
 const App = () => {
   return (
